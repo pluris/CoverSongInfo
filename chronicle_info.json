@@ -1,0 +1,29 @@
+{
+    "info": [
+        {
+            "name": "1950년대",
+            "photo_url": "https://yt3.ggpht.com/a/AATXAJyVg76DSObYxn7h_9ArGNG9_aqo_pmvPBp3ndLTLw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "id": "1950"
+        },
+        {
+            "name": "1960년대",
+            "photo_url": "https://yt3.ggpht.com/a/AATXAJw3Nwu5fPATOVRQAmCYDuSRQ7pFdYWltiyfmVSbHw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "id": "1960"
+        },
+        {
+            "name": "1970년대",
+            "photo_url": "https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0x00ffffff-no-rj",
+            "id": "1970"
+        },
+        {
+            "name": "1980년대",
+            "photo_url": "https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0x00ffffff-no-rj",
+            "id": "1980"
+        },
+        {
+            "name": "1990년대",
+            "photo_url": "https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0x00ffffff-no-rj",
+            "id": "1990"
+        }
+    ]
+}
