@@ -81,7 +81,7 @@ def getDecadesData():
                 song_info_list.append({
                     'title': title_result[idx]['title'],
                     'thumbnail': img_result[idx]['src'],
-                    'playid': playid,
+                    'play_id': playid,
                 })
         data_set['info'] = song_info_list
         result_list.append(data_set)
