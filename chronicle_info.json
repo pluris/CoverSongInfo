@@ -54,6 +54,11 @@
             "name": "2000년대",
             "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
             "id": "1990"
+        },
+        {
+            "name": "test",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "test"
         }
     ]
 }
