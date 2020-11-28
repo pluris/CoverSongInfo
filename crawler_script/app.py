@@ -71,7 +71,7 @@ def getDecadesData():
         #playtime_result = parse_result.find_all('span', {'class': 'style-scope ytd-thumbnail-overlay-time-status-renderer'})
         playid_result = parse_result.find_all('a', {'class': 'yt-simple-endpoint style-scope ytd-playlist-video-renderer'})
         img_result = parse_result.find_all('img', {'class': 'style-scope yt-img-shadow'})
-        data_list = []
+        data_set = {}
         song_info_list = []
 
         for idx in range(len(title_result)):
@@ -83,10 +83,8 @@ def getDecadesData():
                     'thumbnail': img_result[idx]['src'],
                     'playid': playid,
                 })
-        data_list.append({
-            'info':song_info_list
-        })
-        result_list.append(data_list)
+        data_set['info'] = song_info_list
+        result_list.append(data_set)
     return result_list
 
 
@@ -100,6 +98,24 @@ def makeDecadesjson(listdata):
             json_file.write(result_json)
 
 
+def getLoadJsonData():
+    result_list = []
+    for d_idx in range(1):
+        filename = f'../song_info/{DECADES_INFO[d_idx]}.json'
+        with open(filename, encoding='UTF-8-sig') as json_file:
+            json_data = json.load(json_file)
+            print(json_data['info'])
+            result_list.append(json_data)
+    return result_list
+
+
+def getPopularDataList100(result_list):
+    result_list = {}
+    return result_list
+
+
 if __name__ == "__main__":
     result_list = getDecadesData()
     makeDecadesjson(result_list)
+    # getLoadJsonData()
+    #getPopularDataList100(result_list)

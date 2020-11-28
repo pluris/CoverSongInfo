@@ -1,506 +1,504 @@
-﻿[
-    {
-        "info": [
-            {
-                "title": "Rick Astley - Never Gonna Give You Up (Video)",
-                "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA3LaBJ1m41D2-VTa5_No4UbczD_Q",
-                "playid": "dQw4w9WgXcQ"
-            },
-            {
-                "title": "a-ha - Take On Me (Official 4K Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAZOsXuR8Wb9PwNJX8pVr75JWCB_A",
-                "playid": "djV11Xbc914"
-            },
-            {
-                "title": "Roxette - Listen To Your Heart (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/yCC_b5WHLX0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDNQJQAMPN_rPciTy5q2JZ1C0fvgw",
-                "playid": "yCC_b5WHLX0"
-            },
-            {
-                "title": "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/qeMFqkcPYcg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDMHj9R3ZNMzS_YdzJVvxYxvjbK8w",
-                "playid": "qeMFqkcPYcg"
-            },
-            {
-                "title": "The Outfield - Your Love (Official HD Video)",
-                "thumbnail": "https://i.ytimg.com/vi/4N1iwQxiHrs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCMVpRWZOTrnH-9O7ivFaHFkTcU5Q",
-                "playid": "4N1iwQxiHrs"
-            },
-            {
-                "title": "Prince - Purple Rain (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/TvnYmWpD_T8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDl7lBDQbt9OEYZh2yLL7xHO6MsNQ",
-                "playid": "TvnYmWpD_T8"
-            },
-            {
-                "title": "Bonnie Tyler - Total Eclipse of the Heart (Video)",
-                "thumbnail": "https://i.ytimg.com/vi/lcOxhH8N3Bo/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDlXTgxmt2I7GiyYr2bA2AUBpBgZA",
-                "playid": "lcOxhH8N3Bo"
-            },
-            {
-                "title": "Whitney Houston - I Wanna Dance With Somebody (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/eH3giaIzONA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAeK6dx_3Ddj0XuP0biU99loXLwRw",
-                "playid": "eH3giaIzONA"
-            },
-            {
-                "title": "Starship - Nothing's Gonna Stop Us Now (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/3wxyN3z9PL4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAQBZyN_POslVJ4n7-es_uAveB_zw",
-                "playid": "3wxyN3z9PL4"
-            },
-            {
-                "title": "George Michael - Careless Whisper (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/izGwDsrQ1eQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC3WhS66oXyMkw_uyKqrK1P6qwOMA",
-                "playid": "izGwDsrQ1eQ"
-            },
-            {
-                "title": "Rod Stewart - Da Ya Think I'm Sexy? (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/Hphwfq1wLJs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDqZXT4eFH1KP-6r1YCoTKeclgcHQ",
-                "playid": "Hphwfq1wLJs"
-            },
-            {
-                "title": "Madonna - Like A Prayer (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/79fzeNUqQbQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDdeH3SX79_qwPb8gTXfnLAGvsCew",
-                "playid": "79fzeNUqQbQ"
-            },
-            {
-                "title": "Roxette - It Must Have Been Love (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/k2C5TjS2sh4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCNfv59vIBKc3-O0KqpqtVf51VM2w",
-                "playid": "k2C5TjS2sh4"
-            },
-            {
-                "title": "Modern Talking - You're My Heart, You're My Soul (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/4kHl4FoK1Ys/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBoBAfvBbBymYi7EueVJGT32SgZfQ",
-                "playid": "4kHl4FoK1Ys"
-            },
-            {
-                "title": "Whitesnake - Is This Love (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/GOJk0HW_hJw/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAZfX8zf8CqL_X1WZZjB_JhtsX-Zg",
-                "playid": "GOJk0HW_hJw"
-            },
-            {
-                "title": "Culture Club - Karma Chameleon (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/JmcA9LIIXWw/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCYmgOVXeo4tZma5ge-z06hWllDiA",
-                "playid": "JmcA9LIIXWw"
-            },
-            {
-                "title": "Modern Talking - Cheri Cheri Lady (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/eNvUS-6PTbs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCFoVFjjC05184XhfMwrojYcglxEg",
-                "playid": "eNvUS-6PTbs"
-            },
-            {
-                "title": "Madonna - Vogue (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/GuJQSAiODqI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAo7TzqDwXq9BK6VDaRUZbHPho-w",
-                "playid": "GuJQSAiODqI"
-            },
-            {
-                "title": "Tears For Fears - Everybody Wants To Rule The World (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/aGCdLKXNF3w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDp3CNxEKxfiH9zadWWk-u4dW7FUg",
-                "playid": "aGCdLKXNF3w"
-            },
-            {
-                "title": "Phil Collins - Another Day In Paradise (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/Qt2mbGP6vFI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAtx4YWY60-ULF-ZCbxpm6CHOiIZQ",
-                "playid": "Qt2mbGP6vFI"
-            },
-            {
-                "title": "Tina Turner - What's Love Got to Do with It [HD REMASTERED]",
-                "thumbnail": "https://i.ytimg.com/vi/oGpFcHTxjZs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCi6oGNIxpy5DJPeVaqUEu3T2OroQ",
-                "playid": "oGpFcHTxjZs"
-            },
-            {
-                "title": "Richard Marx - Right Here Waiting (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/S_E2EHVxNAE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAsA4qvJSatzJ52moxJi_rypv3LpA",
-                "playid": "S_E2EHVxNAE"
-            },
-            {
-                "title": "Madonna - Papa Don't Preach (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/G333Is7VPOg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDNmZQlX-hIy1cIfyM87wV7xYa5BA",
-                "playid": "G333Is7VPOg"
-            },
-            {
-                "title": "Berlin - Take My Breath Away (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/Bx51eegLTY8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDPNyqn57uAsQnacighsWRw7DCV3w",
-                "playid": "Bx51eegLTY8"
-            },
-            {
-                "title": "Wham! - Wake Me Up Before You Go-Go (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/pIgZ7gMze7A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAOT4fD76ZcAkrET7LB6djhRH24dw",
-                "playid": "pIgZ7gMze7A"
-            },
-            {
-                "title": "Eric Clapton - Wonderful Tonight (Live Video) | Warner Vault",
-                "thumbnail": "https://i.ytimg.com/vi/vUSzL2leaFM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCM5ASj2v-fdNypnXihf4qZ4HKf3g",
-                "playid": "vUSzL2leaFM"
-            },
-            {
-                "title": "Men At Work - Down Under (Video)",
-                "thumbnail": "https://i.ytimg.com/vi/XfR9iY5y94s/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAhFIPigWnMnz7uY3ivN4dlXxpWpg",
-                "playid": "XfR9iY5y94s"
-            },
-            {
-                "title": "Ray Parker Jr. - Ghostbusters",
-                "thumbnail": "https://i.ytimg.com/vi/Fe93CLbHjxQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDk-bCzLa_xAH0GEvT_3ruFQOEhCA",
-                "playid": "Fe93CLbHjxQ"
-            },
-            {
-                "title": "Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]",
-                "thumbnail": "https://i.ytimg.com/vi/p3j2NYZ8FKs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB_yzvByBJJ6omwbi2aLE_v2TKGcA",
-                "playid": "p3j2NYZ8FKs"
-            },
-            {
-                "title": "Michael Jackson - Bad (Shortened Version)",
-                "thumbnail": "https://i.ytimg.com/vi/dsUXAEzaC3Q/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAY31ANip1KNdUy0LsryAAIDxlTQ",
-                "playid": "dsUXAEzaC3Q"
-            },
-            {
-                "title": "Modern Talking - Brother Louie (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/Lp2qcCrdBLA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCOYu7LYJw_6jcitn1YHle34ghztA",
-                "playid": "Lp2qcCrdBLA"
-            },
-            {
-                "title": "Eric Clapton - Tears In Heaven (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/JxPj3GAYYZ0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBOOdCs6_gaAD0YTWLkJ-GVzRnu7A",
-                "playid": "JxPj3GAYYZ0"
-            },
-            {
-                "title": "Cyndi Lauper - Time After Time (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/VdQY7BusJNU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDOpookJsJXQZCFkPILFRtcFi7HQQ",
-                "playid": "VdQY7BusJNU"
-            },
-            {
-                "title": "Patrick Swayze - She's Like The Wind ft. Wendy Fraser",
-                "thumbnail": "https://i.ytimg.com/vi/lU9p1WRfA9w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA9v4uje5a07c0IWhgeOTR5ogpPmw",
-                "playid": "lU9p1WRfA9w"
-            },
-            {
-                "title": "Madonna - Like A Virgin (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/s__rX_WL100/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDuCK8Q87g8PApC_PFjuk3yt3-EQw",
-                "playid": "s__rX_WL100"
-            },
-            {
-                "title": "Madonna - Material Girl (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/6p-lDYPR2P8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB0XuIBPhpQaSTit0jtZckljNub3Q",
-                "playid": "6p-lDYPR2P8"
-            },
-            {
-                "title": "Michael Jackson - The Way You Make Me Feel (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/HzZ_urpj4As/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCaDDGBeMpoQ2Q3ztqqVDBi6I436A",
-                "playid": "HzZ_urpj4As"
-            },
-            {
-                "title": "The Cars - Drive (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/xuZA6qiJVfU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBYPJZdRXqhhYZAV3BccRFIJlPDBQ",
-                "playid": "xuZA6qiJVfU"
-            },
-            {
-                "title": "Eric Clapton - I Shot The Sheriff [Crossroads 2010] (Official Live Video)",
-                "thumbnail": "https://i.ytimg.com/vi/APWhx97QvxE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDbc0LScp8Zqjl8pslAieRJSTAQ_g",
-                "playid": "APWhx97QvxE"
-            },
-            {
-                "title": "Elton John - I'm Still Standing",
-                "thumbnail": "https://i.ytimg.com/vi/ZHwVBirqD2s/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCPB-gSuSMsd0rpKuyBY3gtFXmmSw",
-                "playid": "ZHwVBirqD2s"
-            },
-            {
-                "title": "Simple Minds - Don't You (Forget About Me)",
-                "thumbnail": "https://i.ytimg.com/vi/CdqoNKCCt7A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAq6iRCTBbINEv6f380QjeKybrDig",
-                "playid": "CdqoNKCCt7A"
-            },
-            {
-                "title": "Dionne Warwick - That's What Friends Are For",
-                "thumbnail": "https://i.ytimg.com/vi/HyTpu6BmE88/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLASx5zV1BtguRXaFUNyVFJv_JsL_g",
-                "playid": "HyTpu6BmE88"
-            },
-            {
-                "title": "Air Supply - Making Love Out Of Nothing At All",
-                "thumbnail": "https://i.ytimg.com/vi/ogoIxkPjRts/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAnEhd01e4cl33vbYB4YkEVSuiSdg",
-                "playid": "ogoIxkPjRts"
-            },
-            {
-                "title": "The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/tbNlMtqrYS0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB7EAb3fz5IFLvWvqcs6kBGKCY6UQ",
-                "playid": "tbNlMtqrYS0"
-            },
-            {
-                "title": "Earth, Wind & Fire - Let's Groove (Official HD Video)",
-                "thumbnail": "https://i.ytimg.com/vi/Lrle0x_DHBM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDigpyX3vFv6cwOMRwD55luLMxbMw",
-                "playid": "Lrle0x_DHBM"
-            },
-            {
-                "title": "Kool & The Gang - Celebration (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/3GwjfUFyY6M/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBJH1fzsR9yuNQ8RKHq8MXV_agsMg",
-                "playid": "3GwjfUFyY6M"
-            },
-            {
-                "title": "Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]",
-                "thumbnail": "https://i.ytimg.com/vi/zuuObGsB0No/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLD9pgsTofcDalgKE3p3yIZedZQpag",
-                "playid": "zuuObGsB0No"
-            },
-            {
-                "title": "Billy Joel - Uptown Girl (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/hCuMWrfXG4E/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDYAQMGNNgsIr9xnjVNioPPIsIaKA",
-                "playid": "hCuMWrfXG4E"
-            },
-            {
-                "title": "Bronski Beat - Smalltown Boy",
-                "thumbnail": "https://i.ytimg.com/vi/U7-q1WRaKNg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAGliPuaSLCavjpYpVOjdElWmYisA",
-                "playid": "U7-q1WRaKNg"
-            },
-            {
-                "title": "Abba - The Winner Takes It All (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/92cwKCU8Z5c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLD1sJ_1Q0kJCvBYVTzr99oO4sUEgw",
-                "playid": "92cwKCU8Z5c"
-            },
-            {
-                "title": "Morrissey - Suedehead",
-                "thumbnail": "https://i.ytimg.com/vi/0AvuweztG4Q/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBu2gfpMOh_w-FYJ6mhI-qDFOqBrw",
-                "playid": "0AvuweztG4Q"
-            },
-            {
-                "title": "Paul Young - Everytime You Go Away (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/nfk6sCzRTbM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBoAwuL_zGpSUlBa-CWNFuDgOByIw",
-                "playid": "nfk6sCzRTbM"
-            },
-            {
-                "title": "Tina Turner - The Best (Official Music Video) [HD REMASTERED]",
-                "thumbnail": "https://i.ytimg.com/vi/GC5E8ie2pdM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBIuvR-TDzMs38IYJCoiOkgIoHefA",
-                "playid": "GC5E8ie2pdM"
-            },
-            {
-                "title": "Alphaville - Forever Young (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/oNjQXmoxiQ8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAm83BzZY1YUBbnJw9XfYUHe5AbrQ",
-                "playid": "oNjQXmoxiQ8"
-            },
-            {
-                "title": "Milli Vanilli - Girl You Know It's True",
-                "thumbnail": "https://i.ytimg.com/vi/RdSmokR0Enk/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCwFUFELzUMs8n9_jdvXb3mQa3_Cg",
-                "playid": "RdSmokR0Enk"
-            },
-            {
-                "title": "Mr. Mister - Broken Wings (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/nKhN1t_7PEY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAP-uV0S4UqC8TcG0JijEKlTwuGSw",
-                "playid": "nKhN1t_7PEY"
-            },
-            {
-                "title": "The B-52's - Love Shack (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/9SOryJvTAGs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDeDdpMJ4H--7jGF4qAoNbondD4Ng",
-                "playid": "9SOryJvTAGs"
-            },
-            {
-                "title": "Rick Astley - Together Forever (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/yPYZpwSpKmA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDQlNioFHah1k7BtTN6G_Aleo-2-g",
-                "playid": "yPYZpwSpKmA"
-            },
-            {
-                "title": "Prince & The Revolution - Raspberry Beret (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/l7vRSu_wsNc/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCi6oyG47Wn3iG7WvhBzQinJrc_Vg",
-                "playid": "l7vRSu_wsNc"
-            },
-            {
-                "title": "Daryl Hall & John Oates - Maneater (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/yRYFKcMa_Ek/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAoQS9r6rLkZoRQ5p3VovsjE1DdA",
-                "playid": "yRYFKcMa_Ek"
-            },
-            {
-                "title": "Bryan Adams - Summer Of '69 (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/eFjjO_lhf9c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCVqzFg2q_iojuBvDjb0Cli2Ck5fw",
-                "playid": "eFjjO_lhf9c"
-            },
-            {
-                "title": "Depeche Mode - Never Let Me Down Again (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/snILjFUkk_A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAqWjGIOQpxPfcQO_Ofv9p1lwH1rA",
-                "playid": "snILjFUkk_A"
-            },
-            {
-                "title": "The Bangles - Eternal Flame",
-                "thumbnail": "https://i.ytimg.com/vi/PSoOFn3wQV4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDDbvvDnXaLYf22p56Eeef5hlB55g",
-                "playid": "PSoOFn3wQV4"
-            },
-            {
-                "title": "Simply Red - Holding Back The Years (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/yG07WSu7Q9w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAMw_HWgAA6wXCfE0sumO2mrMYL9g",
-                "playid": "yG07WSu7Q9w"
-            },
-            {
-                "title": "Prince & The Revolution - When Doves Cry (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/UG3VcCAlUgE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBRCpZk3_1xgdZe6hisQ5HNQXGFxw",
-                "playid": "UG3VcCAlUgE"
-            },
-            {
-                "title": "Sade - Smooth Operator - Official - 1984",
-                "thumbnail": "https://i.ytimg.com/vi/4TYv2PhG89A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAjRc5Og1US_Ra36SkSpx8zfM20oQ",
-                "playid": "4TYv2PhG89A"
-            },
-            {
-                "title": "Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]",
-                "thumbnail": "https://i.ytimg.com/vi/dRHetRTOD1Q/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDvLaxv_o5_E2QVqsuPMiGDhtdOtg",
-                "playid": "dRHetRTOD1Q"
-            },
-            {
-                "title": "Roxette - The Look",
-                "thumbnail": "https://i.ytimg.com/vi/LlVI7ZNiFlI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCnMnFiUHB4o9MB4Czw0nlrwF0Mlg",
-                "playid": "LlVI7ZNiFlI"
-            },
-            {
-                "title": "Men At Work - Who Can It Be Now? (Video Version)",
-                "thumbnail": "https://i.ytimg.com/vi/SECVGN4Bsgg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBzLcp5ZRO4uEYjkd9XHmRPVWErFQ",
-                "playid": "SECVGN4Bsgg"
-            },
-            {
-                "title": "Whitney Houston - Where Do Broken Hearts Go (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/wa3tfVjGCQ8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB11sScHaQVuh_ulTnZMYN4c5j85w",
-                "playid": "wa3tfVjGCQ8"
-            },
-            {
-                "title": "Prince & The Revolution - Kiss (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/H9tEvfIsDyo/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBbif7zhHtEGTz2nWPSUJQpJ8TzJw",
-                "playid": "H9tEvfIsDyo"
-            },
-            {
-                "title": "Madonna - Express Yourself (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/GsVcUzP_O_8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBQdd9MasvM3oGhtkUjPOnm4Ry_mA",
-                "playid": "GsVcUzP_O_8"
-            },
-            {
-                "title": "Pet Shop Boys - Domino Dancing (Official Video) [HD REMASTERED]",
-                "thumbnail": "https://i.ytimg.com/vi/ik2YF05iX2w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCzA3bTas0o8iBZTEvTACpNqCGgvQ",
-                "playid": "ik2YF05iX2w"
-            },
-            {
-                "title": "Whitney Houston - How Will I Know (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/m3-hY-hlhBg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDHjlHnVa9t6n5UsHnNGrpoleB_3w",
-                "playid": "m3-hY-hlhBg"
-            },
-            {
-                "title": "The Human League - Don't You Want Me (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/uPudE8nDog0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBQLJZh36uRP_fcjo9ZNp6T_mIu2A",
-                "playid": "uPudE8nDog0"
-            },
-            {
-                "title": "Depeche Mode - Just Can't Get Enough (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/_6FBfAQ-NDE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA_lZzX7jWLGFbXcE5GcVU0lnZNJw",
-                "playid": "_6FBfAQ-NDE"
-            },
-            {
-                "title": "Michael Bolton - How Am I Supposed To Live Without You",
-                "thumbnail": "https://i.ytimg.com/vi/YFood_bTOX4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDVVHdjzoHtrMGs5TtCGXsHW-SNEg",
-                "playid": "YFood_bTOX4"
-            },
-            {
-                "title": "Paul Simon - You Can Call Me Al (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/uq-gYOrU8bA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAW3Wgi-rc7qZipKZmLw2R4HYj-tw",
-                "playid": "uq-gYOrU8bA"
-            },
-            {
-                "title": "When In Rome - The Promise (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/5HI_xFQWiYU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCqhfSkSRI-PmgvRR28TsYvdOvg7w",
-                "playid": "5HI_xFQWiYU"
-            },
-            {
-                "title": "Madonna - Into The Groove (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/52iW3lcpK5M/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC79uC4n30RCkF8iaIXdGCv72E9GQ",
-                "playid": "52iW3lcpK5M"
-            },
-            {
-                "title": "Toto - Africa (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/FTQbiNvZqaY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCRVfv3LY-FtTNgJlnUQmUblht1zg",
-                "playid": "FTQbiNvZqaY"
-            },
-            {
-                "title": "Christopher Cross - Ride Like The Wind",
-                "thumbnail": "https://i.ytimg.com/vi/ur8ftRFb2Ac/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB8Cf-u489M6rXHnL9pjT0Kn7qJJg",
-                "playid": "ur8ftRFb2Ac"
-            },
-            {
-                "title": "Martika - Toy Soldiers (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/LvdLovAaYzM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBEwD0qnoY2EcIf3Okepzbw1GhZFQ",
-                "playid": "LvdLovAaYzM"
-            },
-            {
-                "title": "Cyndi Lauper - True Colors (Official HD Video)",
-                "thumbnail": "https://i.ytimg.com/vi/LPn0KFlbqX8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDinmGGc2qnqL-4X4O6OvEHTQlR6Q",
-                "playid": "LPn0KFlbqX8"
-            },
-            {
-                "title": "Madonna - Live To Tell (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/IzAO9A9GjgI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC_hmJuFcXAFhntxX-xwUHuMuJNCQ",
-                "playid": "IzAO9A9GjgI"
-            },
-            {
-                "title": "Laura Branigan - Self Control (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/RP0_8J7uxhs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBq2nREQ-fmsoFzmhTY8VjwIPWOsQ",
-                "playid": "RP0_8J7uxhs"
-            },
-            {
-                "title": "Kim Carnes - Bette Davis Eyes",
-                "thumbnail": "https://i.ytimg.com/vi/EPOIS5taqA8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB1NoJVvJB12DIWl00xVgmRyGV8_Q",
-                "playid": "EPOIS5taqA8"
-            },
-            {
-                "title": "I Just Called To Say I Love You",
-                "thumbnail": "https://i.ytimg.com/vi/wyXNQiRCfRg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBVTyV0gWK79TKWMaMXXydZ70rQQw",
-                "playid": "wyXNQiRCfRg"
-            },
-            {
-                "title": "Patti LaBelle - On My Own (Official Music Video) ft. Michael McDonald",
-                "thumbnail": "https://i.ytimg.com/vi/KsH63qJlIMM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBZ8i8lFYPEUprKyC_cSYo2GZ5H7A",
-                "playid": "KsH63qJlIMM"
-            },
-            {
-                "title": "Erasure - A Little Respect (Official HD Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/x34icYC8zA0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAHxmmqs-Myn-LqPc8WGV4zRQp0mg",
-                "playid": "x34icYC8zA0"
-            },
-            {
-                "title": "Madonna - Crazy For You (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/DHutZXREZ0E/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA9hmiwaxLthe-iItlr5LFPSx2tUw",
-                "playid": "DHutZXREZ0E"
-            },
-            {
-                "title": "Fine Young Cannibals - She Drives Me Crazy  (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/UtvmTu4zAMg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBvGSYMZr1-Ix6AEZuJ-BdNrzEWPA",
-                "playid": "UtvmTu4zAMg"
-            },
-            {
-                "title": "Thompson Twins - Hold Me Now",
-                "thumbnail": "https://i.ytimg.com/vi/H9694K85Xc8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLComWtPNmS4eRcuSGgdf_Pbbveu_Q",
-                "playid": "H9694K85Xc8"
-            },
-            {
-                "title": "Irene Cara  - Flashdance What A Feeling (Official Music Video)",
-                "thumbnail": "https://i.ytimg.com/vi/ILWSp0m9G2U/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCN0e20R27fVJK-uuKY3OdVNPoIkw",
-                "playid": "ILWSp0m9G2U"
-            },
-            {
-                "title": "Abba - Super Trouper",
-                "thumbnail": "https://i.ytimg.com/vi/BshxCIjNEjY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBXzijGcLCNRApxlZhTn2-na9A7zQ",
-                "playid": "BshxCIjNEjY"
-            },
-            {
-                "title": "F.R. David - Words don't come easy - High Quality Official Music Video",
-                "thumbnail": "https://i.ytimg.com/vi/PTsSk0r_Tq8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB8Mlpl_AUR5XleBljRh-lGuJ5fNA",
-                "playid": "PTsSk0r_Tq8"
-            },
-            {
-                "title": "Rod Stewart - Young Turks (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/zQ41hqlV0Kk/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBdTrzIs_il9UZXdIcD9Hlge3IlaA",
-                "playid": "zQ41hqlV0Kk"
-            },
-            {
-                "title": "Nothing Gonna Change My Love For You",
-                "thumbnail": "https://i.ytimg.com/vi/kybeq2dWBf8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAVQmzB9cwj4qyd7ZJiHSiDgJqlRA",
-                "playid": "kybeq2dWBf8"
-            },
-            {
-                "title": "Cock Robin - The Promise You Made (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/3pk3A_QSINI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAR8XT0KpLc4wt5kKKesdT3hwMi6w",
-                "playid": "3pk3A_QSINI"
-            },
-            {
-                "title": "a-ha - The Sun Always Shines on T.V. (Official Video)",
-                "thumbnail": "https://i.ytimg.com/vi/a3ir9HC9vYg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDgGQnxo0VylTc3E9Z92mwBTWseMw",
-                "playid": "a3ir9HC9vYg"
-            }
-        ]
-    }
-]
+﻿{
+    "info": [
+        {
+            "title": "Rick Astley - Never Gonna Give You Up (Video)",
+            "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA3LaBJ1m41D2-VTa5_No4UbczD_Q",
+            "playid": "dQw4w9WgXcQ"
+        },
+        {
+            "title": "a-ha - Take On Me (Official 4K Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAZOsXuR8Wb9PwNJX8pVr75JWCB_A",
+            "playid": "djV11Xbc914"
+        },
+        {
+            "title": "Roxette - Listen To Your Heart (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/yCC_b5WHLX0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDNQJQAMPN_rPciTy5q2JZ1C0fvgw",
+            "playid": "yCC_b5WHLX0"
+        },
+        {
+            "title": "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/qeMFqkcPYcg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDMHj9R3ZNMzS_YdzJVvxYxvjbK8w",
+            "playid": "qeMFqkcPYcg"
+        },
+        {
+            "title": "The Outfield - Your Love (Official HD Video)",
+            "thumbnail": "https://i.ytimg.com/vi/4N1iwQxiHrs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCMVpRWZOTrnH-9O7ivFaHFkTcU5Q",
+            "playid": "4N1iwQxiHrs"
+        },
+        {
+            "title": "Prince - Purple Rain (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/TvnYmWpD_T8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDl7lBDQbt9OEYZh2yLL7xHO6MsNQ",
+            "playid": "TvnYmWpD_T8"
+        },
+        {
+            "title": "Bonnie Tyler - Total Eclipse of the Heart (Video)",
+            "thumbnail": "https://i.ytimg.com/vi/lcOxhH8N3Bo/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDlXTgxmt2I7GiyYr2bA2AUBpBgZA",
+            "playid": "lcOxhH8N3Bo"
+        },
+        {
+            "title": "Whitney Houston - I Wanna Dance With Somebody (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/eH3giaIzONA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAeK6dx_3Ddj0XuP0biU99loXLwRw",
+            "playid": "eH3giaIzONA"
+        },
+        {
+            "title": "Starship - Nothing's Gonna Stop Us Now (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/3wxyN3z9PL4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAQBZyN_POslVJ4n7-es_uAveB_zw",
+            "playid": "3wxyN3z9PL4"
+        },
+        {
+            "title": "George Michael - Careless Whisper (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/izGwDsrQ1eQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC3WhS66oXyMkw_uyKqrK1P6qwOMA",
+            "playid": "izGwDsrQ1eQ"
+        },
+        {
+            "title": "Rod Stewart - Da Ya Think I'm Sexy? (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/Hphwfq1wLJs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDqZXT4eFH1KP-6r1YCoTKeclgcHQ",
+            "playid": "Hphwfq1wLJs"
+        },
+        {
+            "title": "Madonna - Like A Prayer (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/79fzeNUqQbQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDdeH3SX79_qwPb8gTXfnLAGvsCew",
+            "playid": "79fzeNUqQbQ"
+        },
+        {
+            "title": "Roxette - It Must Have Been Love (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/k2C5TjS2sh4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCNfv59vIBKc3-O0KqpqtVf51VM2w",
+            "playid": "k2C5TjS2sh4"
+        },
+        {
+            "title": "Modern Talking - You're My Heart, You're My Soul (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/4kHl4FoK1Ys/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBoBAfvBbBymYi7EueVJGT32SgZfQ",
+            "playid": "4kHl4FoK1Ys"
+        },
+        {
+            "title": "Whitesnake - Is This Love (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/GOJk0HW_hJw/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAZfX8zf8CqL_X1WZZjB_JhtsX-Zg",
+            "playid": "GOJk0HW_hJw"
+        },
+        {
+            "title": "Culture Club - Karma Chameleon (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/JmcA9LIIXWw/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCYmgOVXeo4tZma5ge-z06hWllDiA",
+            "playid": "JmcA9LIIXWw"
+        },
+        {
+            "title": "Modern Talking - Cheri Cheri Lady (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/eNvUS-6PTbs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCFoVFjjC05184XhfMwrojYcglxEg",
+            "playid": "eNvUS-6PTbs"
+        },
+        {
+            "title": "Madonna - Vogue (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/GuJQSAiODqI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAo7TzqDwXq9BK6VDaRUZbHPho-w",
+            "playid": "GuJQSAiODqI"
+        },
+        {
+            "title": "Tears For Fears - Everybody Wants To Rule The World (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/aGCdLKXNF3w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDp3CNxEKxfiH9zadWWk-u4dW7FUg",
+            "playid": "aGCdLKXNF3w"
+        },
+        {
+            "title": "Phil Collins - Another Day In Paradise (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/Qt2mbGP6vFI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAtx4YWY60-ULF-ZCbxpm6CHOiIZQ",
+            "playid": "Qt2mbGP6vFI"
+        },
+        {
+            "title": "Tina Turner - What's Love Got to Do with It [HD REMASTERED]",
+            "thumbnail": "https://i.ytimg.com/vi/oGpFcHTxjZs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCi6oGNIxpy5DJPeVaqUEu3T2OroQ",
+            "playid": "oGpFcHTxjZs"
+        },
+        {
+            "title": "Richard Marx - Right Here Waiting (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/S_E2EHVxNAE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAsA4qvJSatzJ52moxJi_rypv3LpA",
+            "playid": "S_E2EHVxNAE"
+        },
+        {
+            "title": "Madonna - Papa Don't Preach (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/G333Is7VPOg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDNmZQlX-hIy1cIfyM87wV7xYa5BA",
+            "playid": "G333Is7VPOg"
+        },
+        {
+            "title": "Berlin - Take My Breath Away (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/Bx51eegLTY8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDPNyqn57uAsQnacighsWRw7DCV3w",
+            "playid": "Bx51eegLTY8"
+        },
+        {
+            "title": "Wham! - Wake Me Up Before You Go-Go (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/pIgZ7gMze7A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAOT4fD76ZcAkrET7LB6djhRH24dw",
+            "playid": "pIgZ7gMze7A"
+        },
+        {
+            "title": "Eric Clapton - Wonderful Tonight (Live Video) | Warner Vault",
+            "thumbnail": "https://i.ytimg.com/vi/vUSzL2leaFM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCM5ASj2v-fdNypnXihf4qZ4HKf3g",
+            "playid": "vUSzL2leaFM"
+        },
+        {
+            "title": "Men At Work - Down Under (Video)",
+            "thumbnail": "https://i.ytimg.com/vi/XfR9iY5y94s/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAhFIPigWnMnz7uY3ivN4dlXxpWpg",
+            "playid": "XfR9iY5y94s"
+        },
+        {
+            "title": "Ray Parker Jr. - Ghostbusters",
+            "thumbnail": "https://i.ytimg.com/vi/Fe93CLbHjxQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDk-bCzLa_xAH0GEvT_3ruFQOEhCA",
+            "playid": "Fe93CLbHjxQ"
+        },
+        {
+            "title": "Pet Shop Boys - West End Girls (Official Video) [HD REMASTERED]",
+            "thumbnail": "https://i.ytimg.com/vi/p3j2NYZ8FKs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB_yzvByBJJ6omwbi2aLE_v2TKGcA",
+            "playid": "p3j2NYZ8FKs"
+        },
+        {
+            "title": "Michael Jackson - Bad (Shortened Version)",
+            "thumbnail": "https://i.ytimg.com/vi/dsUXAEzaC3Q/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAY31ANip1KNdUy0LsryAAIDxlTQ",
+            "playid": "dsUXAEzaC3Q"
+        },
+        {
+            "title": "Modern Talking - Brother Louie (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/Lp2qcCrdBLA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCOYu7LYJw_6jcitn1YHle34ghztA",
+            "playid": "Lp2qcCrdBLA"
+        },
+        {
+            "title": "Eric Clapton - Tears In Heaven (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/JxPj3GAYYZ0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBOOdCs6_gaAD0YTWLkJ-GVzRnu7A",
+            "playid": "JxPj3GAYYZ0"
+        },
+        {
+            "title": "Cyndi Lauper - Time After Time (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/VdQY7BusJNU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDOpookJsJXQZCFkPILFRtcFi7HQQ",
+            "playid": "VdQY7BusJNU"
+        },
+        {
+            "title": "Patrick Swayze - She's Like The Wind ft. Wendy Fraser",
+            "thumbnail": "https://i.ytimg.com/vi/lU9p1WRfA9w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA9v4uje5a07c0IWhgeOTR5ogpPmw",
+            "playid": "lU9p1WRfA9w"
+        },
+        {
+            "title": "Madonna - Like A Virgin (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/s__rX_WL100/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDuCK8Q87g8PApC_PFjuk3yt3-EQw",
+            "playid": "s__rX_WL100"
+        },
+        {
+            "title": "Madonna - Material Girl (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/6p-lDYPR2P8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB0XuIBPhpQaSTit0jtZckljNub3Q",
+            "playid": "6p-lDYPR2P8"
+        },
+        {
+            "title": "Michael Jackson - The Way You Make Me Feel (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/HzZ_urpj4As/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCaDDGBeMpoQ2Q3ztqqVDBi6I436A",
+            "playid": "HzZ_urpj4As"
+        },
+        {
+            "title": "The Cars - Drive (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/xuZA6qiJVfU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBYPJZdRXqhhYZAV3BccRFIJlPDBQ",
+            "playid": "xuZA6qiJVfU"
+        },
+        {
+            "title": "Eric Clapton - I Shot The Sheriff [Crossroads 2010] (Official Live Video)",
+            "thumbnail": "https://i.ytimg.com/vi/APWhx97QvxE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDbc0LScp8Zqjl8pslAieRJSTAQ_g",
+            "playid": "APWhx97QvxE"
+        },
+        {
+            "title": "Elton John - I'm Still Standing",
+            "thumbnail": "https://i.ytimg.com/vi/ZHwVBirqD2s/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCPB-gSuSMsd0rpKuyBY3gtFXmmSw",
+            "playid": "ZHwVBirqD2s"
+        },
+        {
+            "title": "Simple Minds - Don't You (Forget About Me)",
+            "thumbnail": "https://i.ytimg.com/vi/CdqoNKCCt7A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAq6iRCTBbINEv6f380QjeKybrDig",
+            "playid": "CdqoNKCCt7A"
+        },
+        {
+            "title": "Dionne Warwick - That's What Friends Are For",
+            "thumbnail": "https://i.ytimg.com/vi/HyTpu6BmE88/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLASx5zV1BtguRXaFUNyVFJv_JsL_g",
+            "playid": "HyTpu6BmE88"
+        },
+        {
+            "title": "Air Supply - Making Love Out Of Nothing At All",
+            "thumbnail": "https://i.ytimg.com/vi/ogoIxkPjRts/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAnEhd01e4cl33vbYB4YkEVSuiSdg",
+            "playid": "ogoIxkPjRts"
+        },
+        {
+            "title": "The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/tbNlMtqrYS0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB7EAb3fz5IFLvWvqcs6kBGKCY6UQ",
+            "playid": "tbNlMtqrYS0"
+        },
+        {
+            "title": "Earth, Wind & Fire - Let's Groove (Official HD Video)",
+            "thumbnail": "https://i.ytimg.com/vi/Lrle0x_DHBM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDigpyX3vFv6cwOMRwD55luLMxbMw",
+            "playid": "Lrle0x_DHBM"
+        },
+        {
+            "title": "Kool & The Gang - Celebration (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/3GwjfUFyY6M/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBJH1fzsR9yuNQ8RKHq8MXV_agsMg",
+            "playid": "3GwjfUFyY6M"
+        },
+        {
+            "title": "Joy Division - Love Will Tear Us Apart [OFFICIAL MUSIC VIDEO]",
+            "thumbnail": "https://i.ytimg.com/vi/zuuObGsB0No/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLD9pgsTofcDalgKE3p3yIZedZQpag",
+            "playid": "zuuObGsB0No"
+        },
+        {
+            "title": "Billy Joel - Uptown Girl (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/hCuMWrfXG4E/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDYAQMGNNgsIr9xnjVNioPPIsIaKA",
+            "playid": "hCuMWrfXG4E"
+        },
+        {
+            "title": "Bronski Beat - Smalltown Boy",
+            "thumbnail": "https://i.ytimg.com/vi/U7-q1WRaKNg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAGliPuaSLCavjpYpVOjdElWmYisA",
+            "playid": "U7-q1WRaKNg"
+        },
+        {
+            "title": "Abba - The Winner Takes It All (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/92cwKCU8Z5c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLD1sJ_1Q0kJCvBYVTzr99oO4sUEgw",
+            "playid": "92cwKCU8Z5c"
+        },
+        {
+            "title": "Morrissey - Suedehead",
+            "thumbnail": "https://i.ytimg.com/vi/0AvuweztG4Q/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBu2gfpMOh_w-FYJ6mhI-qDFOqBrw",
+            "playid": "0AvuweztG4Q"
+        },
+        {
+            "title": "Paul Young - Everytime You Go Away (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/nfk6sCzRTbM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBoAwuL_zGpSUlBa-CWNFuDgOByIw",
+            "playid": "nfk6sCzRTbM"
+        },
+        {
+            "title": "Tina Turner - The Best (Official Music Video) [HD REMASTERED]",
+            "thumbnail": "https://i.ytimg.com/vi/GC5E8ie2pdM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBIuvR-TDzMs38IYJCoiOkgIoHefA",
+            "playid": "GC5E8ie2pdM"
+        },
+        {
+            "title": "Alphaville - Forever Young (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/oNjQXmoxiQ8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAm83BzZY1YUBbnJw9XfYUHe5AbrQ",
+            "playid": "oNjQXmoxiQ8"
+        },
+        {
+            "title": "Milli Vanilli - Girl You Know It's True",
+            "thumbnail": "https://i.ytimg.com/vi/RdSmokR0Enk/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCwFUFELzUMs8n9_jdvXb3mQa3_Cg",
+            "playid": "RdSmokR0Enk"
+        },
+        {
+            "title": "Mr. Mister - Broken Wings (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/nKhN1t_7PEY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAP-uV0S4UqC8TcG0JijEKlTwuGSw",
+            "playid": "nKhN1t_7PEY"
+        },
+        {
+            "title": "The B-52's - Love Shack (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/9SOryJvTAGs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDeDdpMJ4H--7jGF4qAoNbondD4Ng",
+            "playid": "9SOryJvTAGs"
+        },
+        {
+            "title": "Rick Astley - Together Forever (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/yPYZpwSpKmA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDQlNioFHah1k7BtTN6G_Aleo-2-g",
+            "playid": "yPYZpwSpKmA"
+        },
+        {
+            "title": "Prince & The Revolution - Raspberry Beret (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/l7vRSu_wsNc/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCi6oyG47Wn3iG7WvhBzQinJrc_Vg",
+            "playid": "l7vRSu_wsNc"
+        },
+        {
+            "title": "Daryl Hall & John Oates - Maneater (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/yRYFKcMa_Ek/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDAoQS9r6rLkZoRQ5p3VovsjE1DdA",
+            "playid": "yRYFKcMa_Ek"
+        },
+        {
+            "title": "Bryan Adams - Summer Of '69 (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/eFjjO_lhf9c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCVqzFg2q_iojuBvDjb0Cli2Ck5fw",
+            "playid": "eFjjO_lhf9c"
+        },
+        {
+            "title": "Depeche Mode - Never Let Me Down Again (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/snILjFUkk_A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAqWjGIOQpxPfcQO_Ofv9p1lwH1rA",
+            "playid": "snILjFUkk_A"
+        },
+        {
+            "title": "The Bangles - Eternal Flame",
+            "thumbnail": "https://i.ytimg.com/vi/PSoOFn3wQV4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDDbvvDnXaLYf22p56Eeef5hlB55g",
+            "playid": "PSoOFn3wQV4"
+        },
+        {
+            "title": "Simply Red - Holding Back The Years (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/yG07WSu7Q9w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAMw_HWgAA6wXCfE0sumO2mrMYL9g",
+            "playid": "yG07WSu7Q9w"
+        },
+        {
+            "title": "Prince & The Revolution - When Doves Cry (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/UG3VcCAlUgE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBRCpZk3_1xgdZe6hisQ5HNQXGFxw",
+            "playid": "UG3VcCAlUgE"
+        },
+        {
+            "title": "Sade - Smooth Operator - Official - 1984",
+            "thumbnail": "https://i.ytimg.com/vi/4TYv2PhG89A/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAjRc5Og1US_Ra36SkSpx8zfM20oQ",
+            "playid": "4TYv2PhG89A"
+        },
+        {
+            "title": "Pet Shop Boys - It's A Sin (Official Video) [HD REMASTERED]",
+            "thumbnail": "https://i.ytimg.com/vi/dRHetRTOD1Q/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDvLaxv_o5_E2QVqsuPMiGDhtdOtg",
+            "playid": "dRHetRTOD1Q"
+        },
+        {
+            "title": "Roxette - The Look",
+            "thumbnail": "https://i.ytimg.com/vi/LlVI7ZNiFlI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCnMnFiUHB4o9MB4Czw0nlrwF0Mlg",
+            "playid": "LlVI7ZNiFlI"
+        },
+        {
+            "title": "Men At Work - Who Can It Be Now? (Video Version)",
+            "thumbnail": "https://i.ytimg.com/vi/SECVGN4Bsgg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBzLcp5ZRO4uEYjkd9XHmRPVWErFQ",
+            "playid": "SECVGN4Bsgg"
+        },
+        {
+            "title": "Whitney Houston - Where Do Broken Hearts Go (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/wa3tfVjGCQ8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB11sScHaQVuh_ulTnZMYN4c5j85w",
+            "playid": "wa3tfVjGCQ8"
+        },
+        {
+            "title": "Prince & The Revolution - Kiss (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/H9tEvfIsDyo/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBbif7zhHtEGTz2nWPSUJQpJ8TzJw",
+            "playid": "H9tEvfIsDyo"
+        },
+        {
+            "title": "Madonna - Express Yourself (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/GsVcUzP_O_8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBQdd9MasvM3oGhtkUjPOnm4Ry_mA",
+            "playid": "GsVcUzP_O_8"
+        },
+        {
+            "title": "Pet Shop Boys - Domino Dancing (Official Video) [HD REMASTERED]",
+            "thumbnail": "https://i.ytimg.com/vi/ik2YF05iX2w/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCzA3bTas0o8iBZTEvTACpNqCGgvQ",
+            "playid": "ik2YF05iX2w"
+        },
+        {
+            "title": "Whitney Houston - How Will I Know (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/m3-hY-hlhBg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDHjlHnVa9t6n5UsHnNGrpoleB_3w",
+            "playid": "m3-hY-hlhBg"
+        },
+        {
+            "title": "The Human League - Don't You Want Me (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/uPudE8nDog0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBQLJZh36uRP_fcjo9ZNp6T_mIu2A",
+            "playid": "uPudE8nDog0"
+        },
+        {
+            "title": "Depeche Mode - Just Can't Get Enough (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/_6FBfAQ-NDE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA_lZzX7jWLGFbXcE5GcVU0lnZNJw",
+            "playid": "_6FBfAQ-NDE"
+        },
+        {
+            "title": "Michael Bolton - How Am I Supposed To Live Without You",
+            "thumbnail": "https://i.ytimg.com/vi/YFood_bTOX4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDVVHdjzoHtrMGs5TtCGXsHW-SNEg",
+            "playid": "YFood_bTOX4"
+        },
+        {
+            "title": "Paul Simon - You Can Call Me Al (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/uq-gYOrU8bA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAW3Wgi-rc7qZipKZmLw2R4HYj-tw",
+            "playid": "uq-gYOrU8bA"
+        },
+        {
+            "title": "When In Rome - The Promise (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/5HI_xFQWiYU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCqhfSkSRI-PmgvRR28TsYvdOvg7w",
+            "playid": "5HI_xFQWiYU"
+        },
+        {
+            "title": "Madonna - Into The Groove (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/52iW3lcpK5M/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC79uC4n30RCkF8iaIXdGCv72E9GQ",
+            "playid": "52iW3lcpK5M"
+        },
+        {
+            "title": "Toto - Africa (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/FTQbiNvZqaY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCRVfv3LY-FtTNgJlnUQmUblht1zg",
+            "playid": "FTQbiNvZqaY"
+        },
+        {
+            "title": "Christopher Cross - Ride Like The Wind",
+            "thumbnail": "https://i.ytimg.com/vi/ur8ftRFb2Ac/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB8Cf-u489M6rXHnL9pjT0Kn7qJJg",
+            "playid": "ur8ftRFb2Ac"
+        },
+        {
+            "title": "Martika - Toy Soldiers (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/LvdLovAaYzM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBEwD0qnoY2EcIf3Okepzbw1GhZFQ",
+            "playid": "LvdLovAaYzM"
+        },
+        {
+            "title": "Cyndi Lauper - True Colors (Official HD Video)",
+            "thumbnail": "https://i.ytimg.com/vi/LPn0KFlbqX8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDinmGGc2qnqL-4X4O6OvEHTQlR6Q",
+            "playid": "LPn0KFlbqX8"
+        },
+        {
+            "title": "Madonna - Live To Tell (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/IzAO9A9GjgI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC_hmJuFcXAFhntxX-xwUHuMuJNCQ",
+            "playid": "IzAO9A9GjgI"
+        },
+        {
+            "title": "Laura Branigan - Self Control (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/RP0_8J7uxhs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBq2nREQ-fmsoFzmhTY8VjwIPWOsQ",
+            "playid": "RP0_8J7uxhs"
+        },
+        {
+            "title": "Kim Carnes - Bette Davis Eyes",
+            "thumbnail": "https://i.ytimg.com/vi/EPOIS5taqA8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB1NoJVvJB12DIWl00xVgmRyGV8_Q",
+            "playid": "EPOIS5taqA8"
+        },
+        {
+            "title": "I Just Called To Say I Love You",
+            "thumbnail": "https://i.ytimg.com/vi/wyXNQiRCfRg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBVTyV0gWK79TKWMaMXXydZ70rQQw",
+            "playid": "wyXNQiRCfRg"
+        },
+        {
+            "title": "Patti LaBelle - On My Own (Official Music Video) ft. Michael McDonald",
+            "thumbnail": "https://i.ytimg.com/vi/KsH63qJlIMM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBZ8i8lFYPEUprKyC_cSYo2GZ5H7A",
+            "playid": "KsH63qJlIMM"
+        },
+        {
+            "title": "Erasure - A Little Respect (Official HD Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/x34icYC8zA0/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAHxmmqs-Myn-LqPc8WGV4zRQp0mg",
+            "playid": "x34icYC8zA0"
+        },
+        {
+            "title": "Madonna - Crazy For You (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/DHutZXREZ0E/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLA9hmiwaxLthe-iItlr5LFPSx2tUw",
+            "playid": "DHutZXREZ0E"
+        },
+        {
+            "title": "Fine Young Cannibals - She Drives Me Crazy  (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/UtvmTu4zAMg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBvGSYMZr1-Ix6AEZuJ-BdNrzEWPA",
+            "playid": "UtvmTu4zAMg"
+        },
+        {
+            "title": "Thompson Twins - Hold Me Now",
+            "thumbnail": "https://i.ytimg.com/vi/H9694K85Xc8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLComWtPNmS4eRcuSGgdf_Pbbveu_Q",
+            "playid": "H9694K85Xc8"
+        },
+        {
+            "title": "Irene Cara  - Flashdance What A Feeling (Official Music Video)",
+            "thumbnail": "https://i.ytimg.com/vi/ILWSp0m9G2U/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCN0e20R27fVJK-uuKY3OdVNPoIkw",
+            "playid": "ILWSp0m9G2U"
+        },
+        {
+            "title": "Abba - Super Trouper",
+            "thumbnail": "https://i.ytimg.com/vi/BshxCIjNEjY/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBXzijGcLCNRApxlZhTn2-na9A7zQ",
+            "playid": "BshxCIjNEjY"
+        },
+        {
+            "title": "F.R. David - Words don't come easy - High Quality Official Music Video",
+            "thumbnail": "https://i.ytimg.com/vi/PTsSk0r_Tq8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB8Mlpl_AUR5XleBljRh-lGuJ5fNA",
+            "playid": "PTsSk0r_Tq8"
+        },
+        {
+            "title": "Rod Stewart - Young Turks (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/zQ41hqlV0Kk/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBdTrzIs_il9UZXdIcD9Hlge3IlaA",
+            "playid": "zQ41hqlV0Kk"
+        },
+        {
+            "title": "Nothing Gonna Change My Love For You",
+            "thumbnail": "https://i.ytimg.com/vi/kybeq2dWBf8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAVQmzB9cwj4qyd7ZJiHSiDgJqlRA",
+            "playid": "kybeq2dWBf8"
+        },
+        {
+            "title": "Cock Robin - The Promise You Made (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/3pk3A_QSINI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAR8XT0KpLc4wt5kKKesdT3hwMi6w",
+            "playid": "3pk3A_QSINI"
+        },
+        {
+            "title": "a-ha - The Sun Always Shines on T.V. (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/a3ir9HC9vYg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDgGQnxo0VylTc3E9Z92mwBTWseMw",
+            "playid": "a3ir9HC9vYg"
+        }
+    ]
+}
