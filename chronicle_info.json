@@ -1,28 +1,58 @@
 {
     "info": [
         {
+            "name": "1900년대",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "1900"
+        },
+        {
+            "name": "1910년대",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "1910"
+        },
+        {
+            "name": "1920년대",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "1920"
+        },
+        {
+            "name": "1930년대",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "1930"
+        },
+        {
+            "name": "1940년대",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "1940"
+        },
+        {
             "name": "1950년대",
-            "photo_url": "https://yt3.ggpht.com/a/AATXAJyVg76DSObYxn7h_9ArGNG9_aqo_pmvPBp3ndLTLw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
             "id": "1950"
         },
         {
             "name": "1960년대",
-            "photo_url": "https://yt3.ggpht.com/a/AATXAJw3Nwu5fPATOVRQAmCYDuSRQ7pFdYWltiyfmVSbHw=s176-c-k-c0x00ffffff-no-rj-mo",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
             "id": "1960"
         },
         {
             "name": "1970년대",
-            "photo_url": "https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0x00ffffff-no-rj",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
             "id": "1970"
         },
         {
             "name": "1980년대",
-            "photo_url": "https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0x00ffffff-no-rj",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
             "id": "1980"
         },
         {
             "name": "1990년대",
-            "photo_url": "https://yt3.ggpht.com/a/AATXAJyRVQHMuv8mBIesdI0JixHoK2lWoNauu5gYqFAj1A=s88-c-k-c0x00ffffff-no-rj",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
+            "id": "1990"
+        },
+        {
+            "name": "2000년대",
+            "photo_url": "https://image.freepik.com/free-vector/retro-cassette-tape-music-record-icon-illustration-vector_53876-25390.jpg",
             "id": "1990"
         }
     ]
