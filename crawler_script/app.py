@@ -39,6 +39,8 @@ def getDecadesData():
     delay = 3
     browser = Chrome('C:\chromedriver_win32\chromedriver.exe')
     result_list = []
+    result_all_list = {}
+    result_all_list['info'] = []
     for d_idx in range(len(REDLIST_DECADES)):
         start_url = REDLIST_DECADES[d_idx]
         browser.get(start_url)
@@ -85,7 +87,8 @@ def getDecadesData():
                 })
         data_set['info'] = song_info_list
         result_list.append(data_set)
-    return result_list
+        result_all_list['info'].extend(song_info_list)
+    return result_list, result_all_list
 
 
 def makeDecadesjson(listdata):
@@ -96,6 +99,15 @@ def makeDecadesjson(listdata):
             os.remove(filename)
         with open(filename, 'w', encoding='UTF-8-sig') as json_file:
             json_file.write(result_json)
+
+
+def makeAlljson(listdata):
+    result_json = json.dumps(listdata, indent=4, ensure_ascii=False)
+    filename = f'../song_info/all.json'
+    if os.path.isfile(filename):
+        os.remove(filename)
+    with open(filename, 'w', encoding='UTF-8-sig') as json_file:
+        json_file.write(result_json)
 
 
 def getLoadJsonData():
@@ -115,7 +127,8 @@ def getPopularDataList100(result_list):
 
 
 if __name__ == "__main__":
-    result_list = getDecadesData()
+    result_list, all_list = getDecadesData()
     makeDecadesjson(result_list)
+    makeAlljson(all_list)
     # getLoadJsonData()
     #getPopularDataList100(result_list)

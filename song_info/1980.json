@@ -416,6 +416,11 @@
             "play_id": "LvdLovAaYzM"
         },
         {
+            "title": "a-ha - The Sun Always Shines on T.V. (Official Video)",
+            "thumbnail": "https://i.ytimg.com/vi/a3ir9HC9vYg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDgGQnxo0VylTc3E9Z92mwBTWseMw",
+            "play_id": "a3ir9HC9vYg"
+        },
+        {
             "title": "Cyndi Lauper - True Colors (Official HD Video)",
             "thumbnail": "https://i.ytimg.com/vi/LPn0KFlbqX8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDinmGGc2qnqL-4X4O6OvEHTQlR6Q",
             "play_id": "LPn0KFlbqX8"
@@ -494,11 +499,6 @@
             "title": "Cock Robin - The Promise You Made (Official Video)",
             "thumbnail": "https://i.ytimg.com/vi/3pk3A_QSINI/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAR8XT0KpLc4wt5kKKesdT3hwMi6w",
             "play_id": "3pk3A_QSINI"
-        },
-        {
-            "title": "a-ha - The Sun Always Shines on T.V. (Official Video)",
-            "thumbnail": "https://i.ytimg.com/vi/a3ir9HC9vYg/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDgGQnxo0VylTc3E9Z92mwBTWseMw",
-            "play_id": "a3ir9HC9vYg"
         }
     ]
 }
